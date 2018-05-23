@@ -1,2 +1,2 @@
 # LeetCodeStudy
-## Collecting the scripts of problems in LeetCode.
+#### Collecting the scripts of problems in LeetCode.
